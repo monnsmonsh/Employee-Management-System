@@ -1,0 +1,12 @@
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.sourcelink.json
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
