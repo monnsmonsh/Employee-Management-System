@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PWMzfreRervfbmUT+qQHLRtEpo942tjo47lD6jHcB5DlHXObXibJCdmHtmyFous05o1XL48tWt01Ai5211K8yA==",
+  "dgSpecHash": "M2cPXsxrmxWAyP2NfZ0ndd/avt//HALk9TLkGO5EW/B/tJnoUJkSGeLT2X7fwSaR1WCMyhiYMxiks6308TLNPw==",
   "success": true,
   "projectFilePath": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\BaseLibrary\\BaseLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\monnsmonsh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\monnsmonsh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

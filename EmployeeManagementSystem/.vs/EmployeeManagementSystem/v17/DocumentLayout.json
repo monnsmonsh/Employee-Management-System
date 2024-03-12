@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Server\\Server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\Server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{F8D6B04E-E428-4BE9-B093-8C2E36C69298}|Server\\Server.csproj|c:\\users\\monnsmonsh\\documents\\githubproyects\\employee-management-system\\employeemanagementsystem\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8D6B04E-E428-4BE9-B093-8C2E36C69298}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\ServerLibrary\\Data\\Migrations\\20240312011957_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerLibrary\\Data\\Migrations\\20240312011957_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Server.csproj",
-              "DocumentMoniker": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Server\\Server.csproj",
-              "RelativeDocumentMoniker": "Server\\Server.csproj",
-              "ToolTip": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Server\\Server.csproj",
-              "RelativeToolTip": "Server\\Server.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-11T22:04:09.622Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T01:23:02.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240312011957_First.cs",
+              "DocumentMoniker": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\ServerLibrary\\Data\\Migrations\\20240312011957_First.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20240312011957_First.cs",
+              "ToolTip": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\ServerLibrary\\Data\\Migrations\\20240312011957_First.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\20240312011957_First.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:19:57.746Z",
               "EditorCaption": ""
             }
           ]

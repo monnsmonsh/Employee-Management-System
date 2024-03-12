@@ -10,3 +10,9 @@ C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\Employee
 C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
 C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
 C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache

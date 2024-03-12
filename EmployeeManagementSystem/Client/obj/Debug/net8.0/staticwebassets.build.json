@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Se0bEJKe6yTtuQMYQXmPQAjHB+/KcHehpiH6i8bvl54=",
+  "Hash": "wrLtGxcJFmni+mZF0a0iDXoClVmk9+dKiRIhq1qwZeA=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\webcil\\AutoMapper.wasm"
+    },
     {
       "Identity": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BaseLibrary.pdb",
       "SourceId": "Client",
@@ -4119,6 +4138,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\311zojzmo5.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm"
     },
     {
       "Identity": "C:\\Users\\monnsmonsh\\Documents\\GitHubProyects\\Employee-Management-System\\EmployeeManagementSystem\\Client\\obj\\Debug\\net8.0\\compressed\\32ses7jm0s.gz",

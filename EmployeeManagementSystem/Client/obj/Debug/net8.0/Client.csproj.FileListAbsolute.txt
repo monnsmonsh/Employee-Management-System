@@ -1048,3 +1048,8 @@ C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\Employee
 C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\Client\obj\Debug\net8.0\refint\Client.dll
 C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\Client\obj\Debug\net8.0\Client.pdb
 C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm.gz
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\Client\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\Client\obj\Debug\net8.0\webcil\AutoMapper.wasm
+C:\Users\monnsmonsh\Documents\GitHubProyects\Employee-Management-System\EmployeeManagementSystem\Client\obj\Debug\net8.0\compressed\311zojzmo5.gz
